@@ -224,6 +224,22 @@ body {
   background-color: #555;
 }
 
+@media (max-width: 768px) {
+  /* Mobilanpassning för videosektioner */
+  .video-section div h2 {
+    font-size: 2.5rem; /* större rubrik på mobil */
+  }
+
+  .video-section div p {
+    font-size: 1.3rem; /* större brödtext på mobil */
+  }
+
+  .video-section div {
+    padding: 25px; /* mer padding för bättre läsbarhet */
+  }
+}
+
+
 /* ----------------------------------------Animasi-------------------------------------------- */
 .naik {
   position: relative;
