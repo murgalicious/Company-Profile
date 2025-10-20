@@ -18,7 +18,7 @@ function topFunction() {
 
 //Ketik
 var typed = new Typed(".auto-typed", {
-  strings: ["Good", "Excellent", "Perfect"],
+  strings: ["gärna", "professionellt", "snabbt"],
   typeSpeed: 100,
   backSpeed: 100,
   loop: true,

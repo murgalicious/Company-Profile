@@ -16,14 +16,7 @@ body {
   background-color: #101820;
 }
 
-.jumbotron {
-  background-image: url(img/visor.jpeg);
-  background-size: cover;
-  position: center;
-  height: 600px;
-  text-align: start;
-  font-family: "Outfit", sans-serif;
-}
+
 
 /* email maps */
 .contact-container {
