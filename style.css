@@ -683,3 +683,14 @@ a:hover {
   opacity: 1;
 }
 
+/* Förhindra horisontell scroll */
+body {
+    overflow-x: hidden;
+}
+
+/* Se till att video inte läcker utanför */
+.intro video {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
